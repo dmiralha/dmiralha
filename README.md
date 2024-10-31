@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmiralha
 - 👀 I’m interested in data science and analytics.
-- 🌱 I’m currently learning javascript for data science.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at dmiralha@gmail.com
 
